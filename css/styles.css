@@ -245,6 +245,10 @@ width: calc((100% - 72px) / 4);
     height: 40px;
 }
 
+.team-social-media-icon {
+    fill: #F4F4FD;
+}
+
 .team-social-media {
     background-color: #4d5ae5;
     width: 100%;
