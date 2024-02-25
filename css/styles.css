@@ -266,6 +266,17 @@ width: calc((100% - 72px) / 4);
     flex-direction: column;
 }
 
+.container-icon {
+    border: 1px solid #8e8f99;
+    border-radius: 4px;
+    width: 264px;
+    height: 112px;
+    margin-bottom: 8px;
+    background: #f4f4fd;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
 
 
 
