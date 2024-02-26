@@ -65,7 +65,7 @@ bottom: -1px;
     padding-left: 15px;
     padding-right: 15px;
     margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto;
 }
 
 .header-container {
@@ -381,6 +381,7 @@ width: calc((100% - 72px) / 4);
         letter-spacing: 0.02em;
         background-color: #FFFFFF;
         text-align: center;
+        margin-bottom: 8px;
 }
  
 .our-team-description {
@@ -469,7 +470,6 @@ box-shadow:
 0 1px 6px 0 rgba(46, 47, 66, 0.08);
     background: #fff;
     cursor: pointer;
-    border: 1px solid #f4f4fd;
 }
 
 .info-portfolio:hover .info-portfolio-overlay {
